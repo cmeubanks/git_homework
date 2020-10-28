@@ -1,2 +1,1 @@
 var favorite_quote = "If not me, who? If not now, when?"
-"new quote"
